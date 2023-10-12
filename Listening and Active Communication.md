@@ -28,7 +28,7 @@ I should give full attention to the speaker in order to have meaningful communic
 When speaking to people who use aggressive communication or to people who are in a higher position than me
 
 **Question 6**
-## When do you switch into Aggressive communication styles in your day to day life?
+### When do you switch into Aggressive communication styles in your day to day life?
 It happens very rarely if someone deliberately triggers me emotionally.
 
 **Question 7**
