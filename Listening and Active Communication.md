@@ -29,13 +29,13 @@ When speaking to people who use aggressive communication or to people who are in
 
 **Question 6**
 ### When do you switch into Aggressive communication styles in your day to day life?
-It happens very rarely if someone deliberately triggers me emotionally.
+It happens mostly if someone deliberately triggers someone emotionally.
 
 **Question 7**
 ### When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
-When I am with people with whom I have an informal relationship.
+With people with whom you have an informal relationship.
 
 **Question 8**
 ### How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life?
-I always try to please people and try to avoid conflict as much as possible, which leads to frustration.
-From now on,I will try to learn to understand my needs and feelings and present them as facts so that a balance is maintained.
+Always trying to please people and try to avoid conflict as much as possible,leads to frustration.
+Try to learn to understand needs and feelings of oneself and present them as facts so that a balance is maintained.
