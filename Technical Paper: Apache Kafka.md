@@ -1,9 +1,9 @@
 ## Introduction
 Apache Kafka is an open-source distributed streaming system used for handling the flow of large volumes of data.
 Kafka has three primary capabilities:
-It enables applications to publish or subscribe to data or event streams.
-It stores records accurately (i.e., in the order in which they occurred) in a reliable way.
-It processes records in real-time (as they occur).
+* It enables applications to publish or subscribe to data or event streams.
+* It stores records accurately (i.e., in the order in which they occurred) in a reliable way.
+* It processes records in real-time (as they occur).
 
 ## Architecture
 
